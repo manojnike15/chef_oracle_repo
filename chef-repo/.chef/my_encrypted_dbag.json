@@ -1,0 +1,12 @@
+{
+  "id": "manoj",
+  "groups": [
+    "awesome"
+  ],
+  "shell": "/bin/bash",
+  "comment": "Mike Heijmans",
+  "ssh_keys": [
+    "1231231313.key1",
+    "2213112413.key2"
+  ]
+}
